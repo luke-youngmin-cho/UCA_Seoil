@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\pigeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\pigeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\itwoleggedwalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\itwoleggedwalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|c:\\users\\seoil\\onedrive\\\uBB38\uC11C\\github\\uca_seoil\\csharpbasic\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB01550-E00F-4E37-8F96-2BD9F86BE800}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITwoLeggedWalker.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\ITwoLeggedWalker.cs",
+              "RelativeDocumentMoniker": "OOP\\ITwoLeggedWalker.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\ITwoLeggedWalker.cs",
+              "RelativeToolTip": "OOP\\ITwoLeggedWalker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:28:45.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Human.cs",
+              "RelativeDocumentMoniker": "OOP\\Human.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Human.cs",
+              "RelativeToolTip": "OOP\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:16:51.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pigeon.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Pigeon.cs",
+              "RelativeDocumentMoniker": "OOP\\Pigeon.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Pigeon.cs",
+              "RelativeToolTip": "OOP\\Pigeon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:50:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Eagle.cs",
+              "RelativeDocumentMoniker": "OOP\\Eagle.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Eagle.cs",
+              "RelativeToolTip": "OOP\\Eagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:49:43.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Bird.cs",
+              "RelativeDocumentMoniker": "OOP\\Bird.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Bird.cs",
+              "RelativeToolTip": "OOP\\Bird.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:20:26.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\seoil\\OneDrive\\\uBB38\uC11C\\GitHub\\UCA_Seoil\\CSharpBasic\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:48:47.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -31,7 +31,7 @@ namespace Practice
         Animator _animator;
         Camera _camera;
         Vector3 _cameraOffset;
-
+        [SerializeField] LayerMask _groundMask;
 
         void Awake()
         {
@@ -75,7 +75,21 @@ namespace Practice
 
         void Move()
         {
-            transform.position += Velocity * Time.fixedDeltaTime;
+            Vector3 deltaPosition = Velocity * Time.fixedDeltaTime;
+            Vector3 expectedPosition = transform.position + deltaPosition;
+            float deltaLength = Vector3.Distance(transform.position, expectedPosition);
+
+            if (Physics.Raycast(expectedPosition + Vector3.up, Vector3.down, out RaycastHit hit, 2f, _groundMask))
+            {
+                Vector3 targetDirection = hit.point - transform.position;
+                expectedPosition = transform.position + targetDirection * deltaLength;
+                float tolerance = deltaLength * 0.1f;
+
+                //if (Physics.Raycast(expectedPosition + Vector3.up * tolerance, Vector3.down, out hit, 2f * tolerance, _groundMask))
+                {
+                    transform.position = hit.point;
+                }
+            }
         }
 
         void Rotation()
